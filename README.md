@@ -40,6 +40,8 @@ A comprehensive data analysis project leveraging PostgreSQL to uncover actionabl
 - Growth comparison analysis (2022 vs. 2023)
 
 ---
+### These visuals are generated using postgreSQL
+
 <img width="1468" height="566" alt="Discounts by category" src="https://github.com/user-attachments/assets/a5ec0d50-e277-443b-9e82-88fad99f2a0f" />
 
 <img width="1468" height="492" alt="profits by category" src="https://github.com/user-attachments/assets/c9a3c38b-f57f-44ac-b592-76c073563f07" />
