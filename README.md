@@ -11,6 +11,10 @@ A comprehensive data analysis project leveraging PostgreSQL to uncover actionabl
 - Identify high-performing regions, categories, and shipping modes
 - Analyze year-over-year growth trends and seasonal patterns
 
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1f53014c-b72c-4127-931c-10197a7fe136" />
+
+
 ---
 
 ## 📈 Key Findings
